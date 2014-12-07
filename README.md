@@ -3,3 +3,6 @@ hello-world
 ===========
 
 First repo
+Just human
+Wrote code
+Done
